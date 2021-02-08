@@ -45,6 +45,7 @@ To analyse the data we will be using Python 3.0 with the following libraries: nu
 About the same percentage of customers (49.2%) of males and females complete a BOGO (Buy One Get One) offer.
 Customers who are less than 500 days are more likely to complete a BOGO offer which might suggest customers sign up just to redeem BOGO offers.
 Mobile is the preferred channel through which customers who completed an offer received the offer.
+The full analysis can be found here: https://diliphebballi.medium.com/analysis-of-starbucks-mobile-app-data-a131b851138e
 
 ## Acknowledgement
 
